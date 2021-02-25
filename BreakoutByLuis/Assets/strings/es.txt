@@ -1,0 +1,4 @@
+Preciona Hacia Arriba
+Rompe Los Ladrillos
+Ganaste!
+Perdiste
